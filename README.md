@@ -48,6 +48,10 @@ All functions are implemented with a focus on:
 The library can be compiled using the provided Makefile:
 
 ```bash
+# Clone the repository
+git clone https://github.com/Melis-Pablo/libft.git
+cd libft
+
 # Compile mandatory functions
 make
 
